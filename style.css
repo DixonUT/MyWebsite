@@ -1,3 +1,26 @@
-html {background-color: lightblue;}
-.links {text-align: center;}
-.name {font-family: Georgia, 'Times New Roman', Times, serif;}
+header {
+    position: fixed;
+    top: 0;
+    background-color: gray;
+    width: 100%;
+}
+
+html {
+    background-color: lightblue;
+    height: 100%;
+    width: 100%;
+}
+
+.links {
+    text-align: center;
+}
+
+.name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    ;
+}
+
+body {
+    padding-top: 50px;
+    margin: 0;
+}
