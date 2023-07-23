@@ -1,2 +1,4 @@
-let message ='Hello World';
- console.log(message);
+// hello world message
+
+
+console.log('Hello World')
